@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcross.a CMakeFiles/cross.dir/home/u4074606/workspace/vrp/vrp_classical/code/Cross/cross_cust_dtable.cpp.o CMakeFiles/cross.dir/home/u4074606/workspace/vrp/vrp_classical/code/Cross/cross_improved_lastc_dtable.cpp.o CMakeFiles/cross.dir/home/u4074606/workspace/vrp/vrp_classical/code/Cross/cross_improved_todepot_dtable.cpp.o
+/usr/bin/ranlib libcross.a
